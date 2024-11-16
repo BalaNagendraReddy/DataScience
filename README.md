@@ -1,2 +1,2 @@
 # DataScience
-This repository has pandas, Machine Learning and AI Learning Concepts.
+This repository has Pandas, Machine Learning and AI Learning Concepts.
